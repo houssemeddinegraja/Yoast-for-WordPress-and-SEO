@@ -1,0 +1,1 @@
+# Yoast-for-WordPress-and-SEO
