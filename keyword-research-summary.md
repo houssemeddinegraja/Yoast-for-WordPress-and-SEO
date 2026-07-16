@@ -60,13 +60,6 @@ Assign one landing page per keyphrase — never multiple pages competing for the
 
 Yoast SEO has a dedicated field for your focus keyphrase and gives feedback (red = problems, orange = improvements, green = good) on things like keyphrase frequency and subheading usage. Note: getting all green bullets isn't the goal in itself — over-optimizing for the checklist can sometimes make your text worse.
 
-## Premium Features (Yoast SEO Premium)
-
-- **Related keyphrases (Semrush)** – find and optimize for multiple related terms/synonyms, with search volume and trend data, directly in the editor (basic Semrush integration is free; deeper features are Premium).
-- **Synonyms** – add synonyms for your focus keyphrase so you're not repeating the same word constantly (which reads as written for search engines, not humans).
-- **Word forms & word order** – the plugin recognizes plurals, tenses, and variants of your keyphrase (e.g., `teach dog to sit` also matches `teaching dogs to sit`), and word order no longer matters (`a trained dog` = `a dog that is trained`) — letting you write more naturally while still getting good analysis results.
-- **Related keyphrases in analysis** – add related terms (via Semrush or manually) so the plugin checks for them too, though it's less strict about these than your main focus keyphrase.
-
 ## Key Takeaways
 
 - Choosing the right focus keyphrase is essential — otherwise you're optimizing for nothing.
