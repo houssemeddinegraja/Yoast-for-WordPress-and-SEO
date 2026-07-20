@@ -15,13 +15,13 @@ A solid structure boosts your ranking chances for three key reasons:
 
 ## How to Build Your Site Structure
 
-**Categories**
+**Categories**: 
 Divide your posts/pages into categories (e.g., "Books," "Food," "Music," "Travel"). Every post needs at least one category. Categories can have subcategories (e.g., "Books" → "Fiction," "Nonfiction"), and each category should be roughly the same size.
 
-**Tags**
+**Tags**: 
 Tags describe a post in more detail than categories, but — unlike categories — they have no hierarchy and are entirely optional (e.g., under "Food," tags could be "desserts," "pasta," "pizza," "salads"). Using both categories and tags together helps people find content more easily.
 
-**Internal Linking**
+**Internal Linking**: 
 Identify your most critical content (your "cornerstone" articles — see below) and link to them from your other, related blog posts. Linking between closely related pages helps search engines understand what's important on your site.
 
 ## Cornerstone Content
@@ -35,7 +35,7 @@ Pick 4–5 pages you'd want a first-time visitor to read. These should form the 
 - Timeless (evergreen) and regularly updated
 - Genuinely informative — even for a webshop, cornerstone content should educate (e.g., explain product uniqueness or use), not just sell.
 
-**Why cornerstone content matters**
+**Why cornerstone content matters**: 
 Popular/competitive search terms are hard to rank for. A cornerstone approach helps you signal to Google which article is your authority on a topic, especially when you have several posts about similar things.
 
 **Where should it live?**
