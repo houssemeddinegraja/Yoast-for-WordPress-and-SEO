@@ -15,7 +15,8 @@ Writing well pays off in several ways:
 ## The 3 Elements of Great Content
 
 Once you've done your keyword research, high-quality, SEO-friendly content needs to be:
-1. **Original** — fresh and different from what's already out there. Note: original doesn't have to mean brand-new information — a personal take or a well-structured overview of existing info also counts.
+1. **Original** — fresh and different from what's already out there.
+> Original doesn't have to mean brand-new information — a personal take or a well-structured overview of existing info also counts.
 2. **Readable** — clear and well-structured, so both people *and* Google can grasp your message easily.
 3. **Findable** — optimized so Google can actually pick it up in search — but findability should never come at the cost of originality or readability. This is where Yoast SEO helps fine-tune things.
 
