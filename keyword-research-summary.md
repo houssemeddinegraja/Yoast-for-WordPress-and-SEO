@@ -5,16 +5,13 @@
 **What is it?**
 The focus keyphrase is the search term you most want a page to rank for — it can be one word (`shoes`) or a phrase (`ballet shoes for kids`).
 
-**Why it matters**
-If you optimize for a keyphrase nobody actually searches for, all that effort is wasted. Choose your focus keyphrase based on:
+**Why it matters**: If you optimize for a keyphrase nobody actually searches for, all that effort is wasted. Choose your focus keyphrase based on:
 1. **Your audience** – what words do they actually use? Tools like Google Trends can help.
 2. **Your competition** – Google your proposed keyphrase and see if you could realistically stand out. Does your site have enough authority?
 
-**Use each keyphrase only once**
-Don't optimize two different articles for the same keyphrase — you'll end up competing with yourself. You can write multiple posts on one topic, just target a different angle/keyphrase for each.
+**Use each keyphrase only once**: Don't optimize two different articles for the same keyphrase — you'll end up competing with yourself. You can write multiple posts on one topic, just target a different angle/keyphrase for each.
 
-**How to use keyphrases on a page**
-Keyword stuffing (cramming in keywords) is an outdated, penalized tactic — Google prefers natural, readable text. Aim for a keyphrase density of about 1–2%, use synonyms instead of repeating the same phrase, and place the keyphrase in your title, first paragraph, a subheading or two, and your meta description.
+**How to use keyphrases on a page**: Keyword stuffing (cramming in keywords) is an outdated, penalized tactic — Google prefers natural, readable text. Aim for a keyphrase density of about 1–2%, use synonyms instead of repeating the same phrase, and place the keyphrase in your title, first paragraph, a subheading or two, and your meta description.
 
 ## Head, Mid-Tail, and Long-Tail Keyphrases
 
@@ -28,10 +25,10 @@ Keyword research means figuring out, *before* you write content, which exact sea
 
 ## How to Do Your Own Keyword Research (5 Steps)
 
-**Step 1: Define your company's mission**
+**Step 1: Define your company's mission**<br>
 Get clear on what makes your company unique — what you offer and why people should choose you. This is the foundation for everything else.
 
-**Step 2: Make a list of keyphrases**
+**Step 2: Make a list of keyphrases**<br>
 Think like your audience: what would they search for to find your product/service? Helpful tools:
 - **Yoast SEO + Semrush integration** – finds related keyphrases for your focus keyphrase.
 - **Google Ads Keyword Planner** – good for discovering new/related terms (ignore search volume unless you're running paid ads).
@@ -39,7 +36,7 @@ Think like your audience: what would they search for to find your product/servic
 - **Google Trends** – compare traffic/interest across keyphrases and regions; useful for spotting seasonal terms.
 - **Your site's internal search** – check what visitors search for on your own site (e.g., via Google Analytics) — this is real vocabulary from your real audience.
 
-**Step 3: Look at search intent**
+**Step 3: Look at search intent**<br>
 Every search reflects one of four intents:
 | Intent | What people want |
 |---|---|
@@ -50,10 +47,10 @@ Every search reflects one of four intents:
 
 Match your content type (blog post, product page, sales page, etc.) to the intent behind the keyphrase.
 
-**Step 4: Research your competition**
+**Step 4: Research your competition**<br>
 Google your target terms and see who ranks and how big those competitors are — could your site realistically compete? Then dig deeper: visit the top-ranking pages and assess their content quality, what they offer, and what you could do better. Aim to outperform them where you're strongest.
 
-**Step 5: Create landing pages**
+**Step 5: Create landing pages**<br>
 Assign one landing page per keyphrase — never multiple pages competing for the same term. Build a simple document (e.g., a spreadsheet) mapping out your keyphrases and site structure. Landing pages don't need to be built all at once; it can be a long-term project.
 
 ## Adding a Focus Keyphrase in Yoast SEO
