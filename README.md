@@ -4,7 +4,7 @@ My personal notes and learning log from my Web Marketing & Technical SEO interns
 
 This isn't a code project — it's a knowledge base of markdown summaries I'm writing as I learn, so I can look things up quickly and track my own progress.
 
-## What's in here
+## Content
 
 | File | Topic |
 |---|---|
@@ -15,15 +15,15 @@ This isn't a code project — it's a knowledge base of markdown summaries I'm wr
 | [`holistic-seo-summary.md`](./holistic-seo-summary.md) | Why SEO works best as a "whole site" strategy instead of isolated tricks |
 | [`wp-hooks.md`](./wp-hooks.md) | Basic WordPress plugin development — using hooks like `add_action()` to inject content into `wp_head` |
 
-## Why I'm doing this
+## Objectives
 
 The site I'm working on is already live and indexed by Google, just not ranking well. So the goal isn't to build a WordPress site from scratch — it's to audit and improve what's already there: fixing meta tags, restructuring content, targeting better keywords, and using Yoast SEO's tools to raise it up the search results.
 
-## Tools I'm using
+## Toolkit
 
 - **CMS:** WordPress
 - **SEO plugin:** Yoast SEO
-- **Auditing:** Google Search Console, browser DevTools, wp-admin
+- **Auditing:** Google Search Console, browser DevTools, WordPress
 
 ## Author
 
