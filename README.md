@@ -27,7 +27,10 @@ The site I'm working on is already live and indexed by Google, just not ranking 
 
 ## Author
 
-**Houssem Eddine Graja**
+**Houssem Eddine Graja**<br>
+
 Web Marketing & Technical SEO Intern, Elzei Consulting
+
 ---
 [GitHub](https://github.com/houssemeddinegraja)
+[LinkedIn](https://www.linkedin.com/in/houssem-eddine-graja-295720417?utm_source=share_via&utm_content=profile&utm_medium=member_android)
