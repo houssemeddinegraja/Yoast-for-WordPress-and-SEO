@@ -1,4 +1,4 @@
-# web-marketing-seo-notes
+# Web Marketing and SEO Notes
 
 My personal notes and learning log from my Web Marketing & Technical SEO internship at **Elzei Consulting**, where I'm working on improving the search rankings of an existing WordPress website (Elzei Portage) using the Yoast SEO plugin.
 
@@ -29,4 +29,5 @@ The site I'm working on is already live and indexed by Google, just not ranking 
 
 **Houssem Eddine Graja**
 Web Marketing & Technical SEO Intern, Elzei Consulting
+---
 [GitHub](https://github.com/houssemeddinegraja)
